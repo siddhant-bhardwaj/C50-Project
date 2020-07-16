@@ -1,0 +1,28 @@
+
+h1{
+    color:purple;
+} 
+
+h2{
+    color:yellow;
+}
+
+
+.vib{
+    background-color:yellow;
+    display:flex;
+    justify-content:space-between;
+
+}
+
+.events{
+    /*flex-direction:column;*/
+    display:flex;
+    justify-content:space-between;
+
+}
+
+.about{
+    background-color:rgb(255, 0, 200);
+    align-self: baseline; 
+}
